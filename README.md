@@ -1,2 +1,2 @@
 # support-desk
-Project based Help Desk ticketing app
+Tutorial-based Help Desk ticketing app
